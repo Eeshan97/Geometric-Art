@@ -1,0 +1,13 @@
+Geometric Art User Guide
+Axioms:
+Axioms should be at least one letter from [F,G,X,Y].
+Axioms are the variables that initiate the drawing.
+Rules: 
+F = move forward by size s.
+G = penup then move forward by size s.
+X is similar to F (but can have different rules)
+Y is similar to G (but can have different rules)
++ = turn right by right angle r
+- = turn left bu left angle l
+Color Change:
+if you would like the color to change, then check the color change checkbox.
